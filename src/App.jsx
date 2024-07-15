@@ -119,13 +119,13 @@ function App() {
         />
         <About
           certifications={[
-            'Certified Tester – ISTQB Foundation Level 2017',
-            'Certified Scrum Master (CSM) 2016'
+            'Certified Software QA Engineer 2024',
+            'Front-End Web Development Certificate 2019'
           ]}
           education={{
-            educationOrganization:"New Jersey Institute of Technology",
-            degreee:"B.A. Information Systems",
-            date:"2008"
+            educationOrganization:"University of Wisconsin - Oshkosh",
+            degree:"B.B.A. Marketing",
+            date:"2013"
           }}
           summary={"Collaborative, flexible, and business-focused Software Quality Specialist with a strong leadership background.  Detail-oriented with the ability to thoroughly analyze systems, identify risks, and formulate testing strategies to satisfy business requirements.  Proven track record of utilizing automation and prioritizing deliverables in order to eliminate test coverage gaps and meet aggressive deadlines while meticulously exercising the application under test."}
         />
